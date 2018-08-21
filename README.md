@@ -5,6 +5,8 @@ Mutation Signatures in Individual Tumours
 
 Installation instructions are below. For a tutorial on SignIT, please see the [Vignette](https://eyzhao.github.io/SignIT/vignette.html).
 
+For a simulation of SignIT's dimensionality reduction for merging bleeding signatures and unclassified signatures, see this [Vignette](http://www.eyzhao.com/SignIT/SignIT_novel_signatures.html).
+
 ## Installation
 
 ### Development Version
